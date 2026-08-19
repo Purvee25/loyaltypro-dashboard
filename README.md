@@ -1,5 +1,7 @@
 # LoyaltyPro — Customer Churn Prediction & Retention Dashboard
 
+**[▶ Live demo](https://purvee25.github.io/loyaltypro-dashboard/)** — the trained Random Forest is exported to JSON and scored in your browser, so predictions are real with no server running.
+
 A machine learning system that predicts which customers are likely to churn, served through a Flask REST API with an interactive HTML dashboard for retention teams.
 
 ## Results
